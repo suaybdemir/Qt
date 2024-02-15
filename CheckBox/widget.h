@@ -19,6 +19,9 @@ public:
     Widget(QWidget *parent = nullptr);
     ~Widget();
 
+public slots:
+    void changeCheck();
+
 private:
     QLabel *label;
     QCheckBox *check1;
