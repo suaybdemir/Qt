@@ -13,7 +13,7 @@ Widget::Widget(QWidget *parent)
     QHBoxLayout *hbox = new QHBoxLayout(this);
 
     lcd = new QLCDNumber(this);
-    lcd->setFont(QFont("Times",14));
+    lcd->setFont(QFont("Sanserif",10));
     lcd->setStyleSheet("background-color:#0094F3");
 
     QTimer *timer = new QTimer(this);
