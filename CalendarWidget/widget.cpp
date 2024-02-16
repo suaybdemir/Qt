@@ -4,11 +4,12 @@
 Widget::Widget(QWidget *parent)
     : QWidget(parent)
 {
+    setWindowTitle("Calendar");
     resize(500,100);
     QVBoxLayout *vbox = new QVBoxLayout(this);
 
     calendar = new QCalendarWidget();
-    calendar->setGridVisible(true);
+    calendar->setGridVisible(false);
     calendar->setStyleSheet("background-color:green");
     connect(calendar,SIGNAL(selectionChanged()),this,SLOT(selectDate()));
 
