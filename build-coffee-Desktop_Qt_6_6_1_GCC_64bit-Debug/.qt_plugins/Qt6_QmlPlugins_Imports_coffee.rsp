@@ -1,0 +1,11 @@
+-rootPath
+/home/ubuntu/Documents/Qt/coffee
+-cmake-output
+-output-file
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_coffee.cmake
+-importPath
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug
+-importPath
+/home/ubuntu/Qt/6.6.1/gcc_64/./qml
+-qrcFiles
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug/.rcc/qml.qrc

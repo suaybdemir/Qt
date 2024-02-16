@@ -1,0 +1,10 @@
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/coffee.dir
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/coffee_qmlimportscan.dir
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/coffee_autogen_timestamp_deps.dir
+/home/ubuntu/Documents/Qt/build-coffee-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/coffee_autogen.dir
